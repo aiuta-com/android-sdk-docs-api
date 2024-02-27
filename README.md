@@ -1,6 +1,6 @@
-# Android Fashion SDK API Documentation
+# API reference of Fashion SDK for Android
 
-Welcome to the repository containing api documentation of the [Fashion SDK](https://github.com/aiuta-com/android-sdk) powered by [Dokka](https://github.com/Kotlin/dokka)
+Welcome to the repository containing api reference of the [Fashion SDK](https://github.com/aiuta-com/android-sdk) powered by [Dokka](https://github.com/Kotlin/dokka)
 
 ## Report bugs or propose features
 
