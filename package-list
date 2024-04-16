@@ -20,8 +20,12 @@ com.aiuta.fashionsdk.network.paging.utils
 module:fashion-tryon-compose
 com.aiuta.fashionsdk.tryon.compose.domain.models
 com.aiuta.fashionsdk.tryon.compose.ui
+com.aiuta.fashionsdk.tryon.compose.ui.internal.screens.history
 module:fashion-tryon-core
 com.aiuta.fashionsdk.tryon.core
 com.aiuta.fashionsdk.tryon.core.domain.models
 module:fashion-tryon-paging
 com.aiuta.fashionsdk.tryon.paging
+module:analytic
+com.aiuta.fashionsdk.analytic
+com.aiuta.fashionsdk.analytic.model
