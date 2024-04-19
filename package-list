@@ -3,6 +3,9 @@ $dokka.linkExtension:html
 
 module:fashion
 com.aiuta.fashionsdk
+module:fashion-analytic
+com.aiuta.fashionsdk.analytic
+com.aiuta.fashionsdk.analytic.events
 module:fashion-compose
 com.aiuta.fashionsdk.compose.molecules.button
 com.aiuta.fashionsdk.compose.molecules.button.internal
@@ -27,5 +30,5 @@ com.aiuta.fashionsdk.tryon.core.domain.models
 module:fashion-tryon-paging
 com.aiuta.fashionsdk.tryon.paging
 module:analytic
-com.aiuta.fashionsdk.analytic
-com.aiuta.fashionsdk.analytic.model
+com.aiuta.fashionsdk.internal.analytic
+com.aiuta.fashionsdk.internal.analytic.model
